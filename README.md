@@ -1,11 +1,23 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## 🧠 What I'll Learn in This Course
+
+- [x] Headings (##, ### style)
+- [x] Bullet lists
+- [x] Task lists ✅
+- [x] Images 🖼️
+- [x] Code blocks 👨‍💻
+- [x] Merging a pull request
+
+---
+
+### 🔤 Headings Example
+
+```markdown
+# This is Heading 1
+## This is Heading 2
+### This is Heading 3
+
 
 # Communicate using Markdown
 
